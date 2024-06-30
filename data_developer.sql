@@ -487,7 +487,7 @@ SELECT * FROM Salary;
 
 -- EXPLORATORY DATA ANALYSIS
 
--- QUESTION: Find the job with the maximum salary for the year 2023
+-- QUESTION: Find the job with the maximum salary in the dataset
 SELECT work_year,job_title,salary_in_usd,domain
 FROM Salary
 WHERE salary_in_usd=(SELECT MAX(salary_in_usd)
