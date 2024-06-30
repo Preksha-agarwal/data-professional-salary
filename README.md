@@ -5,3 +5,4 @@ This project involves the use of MySQL to perform Exploratory Data Analysis on t
 # Dataset Description
 
 The dataset contains information about salaries, job titles, company sizes, remote work ratios, and experience levels of data professionals. The data spans multiple years, with a focus on post-COVID-19 period, primarily 2023 and 2024.
+
