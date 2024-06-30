@@ -14,18 +14,18 @@ This project involves comprehensive data cleaning, standardization, and analysis
 - Standardized the data by modifying column data types and updating values for clarity.
 - Grouped job titles into relevant domains to exhance the analysis.
 
-  **3. Exploratory Data Analysis (EDA)**
+**3. Exploratory Data Analysis (EDA)**
 
-  - Identified the job with the maximum salary.
-  - Calculated the average salary across different domains.
-  - Analyzed the employment distribution across different company sizes.
-  - Determined the percentage of remote work.
-  - Assessed the distribution of experience levels and their corresponding average salaries.
-  - Evaluated the distribution of jobs across different years.
-  - Compared maximum salaries for specific countries (India, Britain, and the US) for the year 2023.
-  - Analyzed the average salary trends across domains and years, excluding the year 2020.
-  - Identified the most popular domains among small, mid-sized, and large firms.
-  - Ranked the top three jobs within each domain based on average salary.
+- Identified the job with the maximum salary.
+- Calculated the average salary across different domains.
+- Analyzed the employment distribution across different company sizes.
+- Determined the percentage of remote work.
+- Assessed the distribution of experience levels and their corresponding average salaries.
+- Evaluated the distribution of jobs across different years.
+- Compared maximum salaries for specific countries (India, Britain, and the US) for the year 2023.
+- Analyzed the average salary trends across domains and years, excluding the year 2020.
+- Identified the most popular domains among small, mid-sized, and large firms.
+- Ranked the top three jobs within each domain based on average salary.
 
 **4. Key Findings**
 - Machine Learning professionals have the highest average salary, while Data Analysis roles have the lowest.
