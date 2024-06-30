@@ -1,4 +1,4 @@
-## data-professional-salary
+# Salary of Data Professionals
 
 This project involves the use of MySQL to perform Exploratory Data Analysis on the dataset of salaries accross various roles. The aim is to extract meaningful insights and patterns regarding salaries, job roles, company sizes, remote work trends, and experience levels.
 
